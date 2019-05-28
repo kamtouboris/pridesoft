@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="myTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorBackground</item>
+        <item name="colorPrimaryDark">@color/colorBackground</item>
+        <item name="android:windowActionModeOverlay">@null</item>
+        <item name="editTextColor">@color/colorEditText</item>
+        <item name="colorAccent">#959595</item>
+    </style>
+
+    <!-- Main style -->
+    <style name="MainStyle" parent="Theme.Design.Light">
+        <item name="colorPrimary">@color/colorBackground</item>
+        <item name="colorPrimaryDark">@color/colorBackground</item>
+    </style>
+
+</resources>

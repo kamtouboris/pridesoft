@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218955091346",
+    "firebase_url": "https://pricesoft-9d0c4.firebaseio.com",
+    "project_id": "pricesoft-9d0c4",
+    "storage_bucket": "pricesoft-9d0c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218955091346:android:09c0653228497a4c",
+        "android_client_info": {
+          "package_name": "com.boriskamtou.pricesoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218955091346-nr1h01p8u1re77qjqf3focnb24dimugs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boriskamtou.pricesoft",
+            "certificate_hash": "b0c88334d296001bbc43a1a4148fc570c6b4b7d9"
+          }
+        },
+        {
+          "client_id": "218955091346-c79ecqud664pj5j8n5ittnho2llv4052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbsOYMUdZzuxAAd1A8lSxMN6i8NtRczAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218955091346-c79ecqud664pj5j8n5ittnho2llv4052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#dc6b69</color>
+    <color name="colorAccent">#FFF</color>
+    <!-- Background Color-->
+    <color name="colorBackground">#dc6b69</color>
+
+    <!-- Color text of my theme-->
+    <color name="colorEditText">#535353</color>
+</resources>
